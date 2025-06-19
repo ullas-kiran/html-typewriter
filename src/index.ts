@@ -1,2 +1,1 @@
-import HTMLTypewriter from './HTMLTypewriter';
-export default HTMLTypewriter;
+export { default } from './HTMLTypewriter';
